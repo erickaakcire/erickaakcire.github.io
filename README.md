@@ -1,2 +1,2 @@
 # erickaakcire.github.io
-Personal website
+![picture](me-headphones-post300.jpg)
