@@ -1,3 +1,5 @@
+![picture](me-headphones-post300.jpg)
+
 ## Welcome!
 
 I am an Assistant Professor in the School of Communication at American University in Washington D.C., see my [faculty page](https://www.american.edu/soc/faculty/menchent.cfm). My research and teaching interests lie at the intersection of political communication and digital media studies, with a focus on methodology. I am the author of a digital research tool called Web Historian, and I write about trace data methodology, and political information consumption in the digital media era. I primarily teach courses in research methods, and introductory python programming.
