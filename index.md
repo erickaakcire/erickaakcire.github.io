@@ -1,4 +1,4 @@
-![picture](me-headphones-post300.jpg)
+![picture](me_wh_300.jpg)
 
 ## Welcome!
 
