@@ -1,4 +1,4 @@
-![picture](me_wh_300.jpg)
+![picture](me_wh_300.png)
 
 ## Welcome!
 
