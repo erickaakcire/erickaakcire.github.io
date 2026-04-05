@@ -1,11 +1,13 @@
-![picture](me_wh_300.png)
+![Ericka Menchen-Trevino](me_glasses.png)
 
 ## Welcome!
 
-I am a research consultant working with clients to design and implement innovative computational methods. Based in Chicago, I work with clients around the world. I am the author of a digital research tool called [Web Historian](http:/www.webhistorian.org), and I write about trace data methodology and political information consumption in the digital media era. I have taught courses and workshops in research methods, including introductory programming and analysis to 'tell stories with data'.
+I work with clients around the world to design and implement innovative computational methods for understanding digital media.
 
-For my research publications see my [Google Scholar profile](https://scholar.google.com/citations?user=H5mrkAkAAAAJ&hl=en) or my [ORCID page](https://orcid.org/0000-0002-5029-8269). For pre-registrations, see my [Open Science Foundation profile](https://osf.io/q34xp/). 
+I am the Executive Director of [BRIC Digital](https://bric.digital/), and the author of [Web Historian](http://www.webhistorian.org), a web browser extension for studying web browsing behavior. I am based in Chicago.
 
-Elsewhere around the web you can me on [Github](https://github.com/erickaakcire/), and Mastodon <a rel="me" href="https://sciences.social/@ericka">@ericka@sciences.social</a>
+Find me elsewhere on the web:
 
-<!-- For all of that and more see [my CV](emt-cv-web.pdf) -->
+- [LinkedIn](https://www.linkedin.com/in/ericka/)
+- [GitHub](https://github.com/erickaakcire/)
+- [Google Scholar](https://scholar.google.com/citations?user=H5mrkAkAAAAJ&hl=en)
