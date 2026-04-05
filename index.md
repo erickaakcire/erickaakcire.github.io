@@ -4,7 +4,7 @@
 
 I work with clients around the world to design and implement innovative computational methods for understanding digital media.
 
-I am the Executive Director of [BRIC Digital](https://bric.digital/), and the author of [Web Historian](http://www.webhistorian.org), a web browser extension for studying web browsing behavior. I am based in Chicago.
+I am the Executive Director of [BRIC Digital](https://bric.digital/), and the author of [Web Historian](https://doi.org/10.9776/16611), a web browser extension for studying web browsing behavior. I am based in Chicago.
 
 Find me elsewhere on the web:
 
